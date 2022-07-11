@@ -7,6 +7,7 @@ System.out.println("comId is 555");
 }
 private void CompName() {
 System.out.println("CompName is TCS");
+System.out.println("staffName is kokila");
 }
 private void CompPlace() {
 System.out.println("company place is chennai");
